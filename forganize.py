@@ -8,6 +8,7 @@
 # If input file is not given and in place given any argument
 # creates a project based on the arguments.
 # Options:
+# -v: verbose - Show verbose mode
 # -dp: default project type 'f' for flex etc
 # -p: Project title
 # -ip: input file for creating custom project
